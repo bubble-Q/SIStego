@@ -1,2 +1,3 @@
 # SIStego
-A simple tool to hide message in your image file.
+
+一个基于 jdk 1.8 的简单的图片隐写工具。
